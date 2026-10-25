@@ -1,0 +1,7 @@
+{
+  "name": "CVM Arte - Loja Virtual de Desenho",
+  "description": "Loja virtual de desenhos originais, gravuras, ilustrações personalizadas e estúdio de encomendas de arte.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
